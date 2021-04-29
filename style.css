@@ -1,0 +1,56 @@
+.top-menu {
+    margin: 0;
+    position: relative;
+    background: #000000;
+}
+
+.menu-main li {
+  display: inline-block;
+  margin-right: -4px;
+}
+.menu-main a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 30px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: white;
+  transition: .3s linear;
+}
+body {
+    margin: 0;
+}
+.menu-main {
+    margin: 0;
+    display: inline-block;
+}
+#top-menu {
+    width: 60%;
+    margin: 0 auto;
+}
+#enter {
+    float: right;
+}
+#login {
+    margin-right: 5px;
+    
+}
+#index-logo {
+    text-align: center;
+    margin-top: 60px;
+}
+.text1 {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: white;
+}
+h1 {
+    display: inline-block;
+    padding: 70px 180px;
+    text-decoration: none;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: white;
+}
+.shape1 {
+    margin-top: 15px;
+}
